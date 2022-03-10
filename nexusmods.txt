@@ -1,1 +1,2 @@
 filedelivery.nexusmods.com
+nexus-cdn.com
