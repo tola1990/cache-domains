@@ -124,7 +124,7 @@
 		},
 		{
 			"name": "mihoyo",
-			"description": "CDN for mihoyo",
+			"description": "CDN for genshin",
 			"domain_files": ["mihoyo.txt"]
 		}
 	]
