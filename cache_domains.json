@@ -124,6 +124,7 @@
 		},
 		{
 			"name": "mihoyo",
+			"mixed_content": true,
 			"description": "CDN for mihoyo",
 			"domain_files": ["mihoyo.txt"]
 		}
