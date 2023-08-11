@@ -122,5 +122,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		{
+			"name": "mihoyo-CN",
+			"description": "CDN for mihoyo Chinese region",
+			"domain_files": ["mihoyo-CN.txt"]
+		}
 	]
 }
