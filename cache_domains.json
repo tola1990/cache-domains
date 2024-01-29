@@ -123,9 +123,9 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
-			"name": "mihoyo",
+			"name": "hoyolab",
 			"description": "CDN for genshin",
-			"domain_files": ["mihoyo.txt"]
+			"domain_files": ["hoyolab.txt"]
 		}
 	]
 }
